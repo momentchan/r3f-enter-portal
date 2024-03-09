@@ -1,5 +1,5 @@
 import * as THREE from 'three'
-import { MeshPortalMaterial, RoundedBox, Text, useCursor } from "@react-three/drei";
+import { MeshPortalMaterial, Text, useCursor } from "@react-three/drei";
 import { extend, useFrame } from "@react-three/fiber";
 import { easing, geometry } from "maath";
 import { useRef, useState } from 'react';
